@@ -5,7 +5,11 @@ int main()
 	cout << "Developer 1";
 
 	int s = 5+6;
-	cout << s;
+	cout << s;	
+
+	//branching 1
+	int sub = 6-5;
+	cout << sub;
 
 	return 0;
 }
